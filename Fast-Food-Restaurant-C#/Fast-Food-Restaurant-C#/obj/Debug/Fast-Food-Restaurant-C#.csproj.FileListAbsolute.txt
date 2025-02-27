@@ -1,0 +1,13 @@
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast-Food-Restaurant-C#.csproj.AssemblyReference.cache
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast_Food_Restaurant_C_.Form1.resources
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast_Food_Restaurant_C_.ucHome.resources
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast-Food-Restaurant-C#.csproj.GenerateResource.cache
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\bin\Debug\Fast-Food-Restaurant-C#.exe.config
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\bin\Debug\Fast-Food-Restaurant-C#.exe
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\bin\Debug\Fast-Food-Restaurant-C#.pdb
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast_Food_Restaurant_C_.Properties.Resources.resources
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast-Food-Restaurant-C#.csproj.CoreCompileInputs.cache
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast-Food-Restaurant-C#.exe
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast-Food-Restaurant-C#.pdb
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast_Food_Restaurant_C_.ucEatin.resources
+D:\Fast-Food-Restaurant-C-\Fast-Food-Restaurant-C#\Fast-Food-Restaurant-C#\obj\Debug\Fast_Food_Restaurant_C_.ucCollection.resources
